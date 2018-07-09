@@ -1,0 +1,10 @@
+F:\MS806-BusinessApplicationProgramming\Assignments\Assignment5-22-11-2017\Assignment5\Assignment5\bin\Debug\Assignment5.exe.config
+F:\MS806-BusinessApplicationProgramming\Assignments\Assignment5-22-11-2017\Assignment5\Assignment5\bin\Debug\Assignment5.exe
+F:\MS806-BusinessApplicationProgramming\Assignments\Assignment5-22-11-2017\Assignment5\Assignment5\bin\Debug\Assignment5.pdb
+F:\MS806-BusinessApplicationProgramming\Assignments\Assignment5-22-11-2017\Assignment5\Assignment5\obj\Debug\Assignment5.csprojResolveAssemblyReference.cache
+F:\MS806-BusinessApplicationProgramming\Assignments\Assignment5-22-11-2017\Assignment5\Assignment5\obj\Debug\Assignment5.Form1.resources
+F:\MS806-BusinessApplicationProgramming\Assignments\Assignment5-22-11-2017\Assignment5\Assignment5\obj\Debug\Assignment5.Properties.Resources.resources
+F:\MS806-BusinessApplicationProgramming\Assignments\Assignment5-22-11-2017\Assignment5\Assignment5\obj\Debug\Assignment5.csproj.GenerateResource.Cache
+F:\MS806-BusinessApplicationProgramming\Assignments\Assignment5-22-11-2017\Assignment5\Assignment5\obj\Debug\Assignment5.csproj.CoreCompileInputs.cache
+F:\MS806-BusinessApplicationProgramming\Assignments\Assignment5-22-11-2017\Assignment5\Assignment5\obj\Debug\Assignment5.exe
+F:\MS806-BusinessApplicationProgramming\Assignments\Assignment5-22-11-2017\Assignment5\Assignment5\obj\Debug\Assignment5.pdb
