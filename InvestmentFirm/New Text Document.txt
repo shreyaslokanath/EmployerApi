@@ -1,0 +1,106 @@
+1) change the assignment to appropriate assignment number
+2) unnescessary clicks in the previous assignment on the group of radio buttons
+3)Should have checked to see if both listboxes - workshop & location selected first 
+before running any code -it is fails in this switch structure already ran all the code 
+above
+4) String literal is hardcoded
+5)user input validation
+6) use the invisible radio button
+7)Tooltips and access keys
+8) Use methods
+9) Check the requirements before submission
+10)prompt them to invest more and show them the benefits
+11)after investing, a thank you button and help them fill the form
+12) center align all the values with proper currency conversion
+13) negative number validation for the amount text box
+14) check for 100,000 and 1,000,000
+15) check the values properly given in the assignment
+16) fileRelatedexception
+17)repeated user email id
+18) are all fields mandatory?
+19) Check examples of applications for a bank employee
+20) make all the method names to uppercase
+21) tab Index
+22) add clear button
+23) Check if there are any literals that are declared in constants
+24) Check the functionality of all the buttons
+25) exception for search
+26) Check toStrings and currency conversion
+23)proper currency conversion
+24) Search button text length validation
+25) Message box decorations
+26) clear button for search
+27) search textbox input validation.
+28) Change contains
+29)number digits after decimals
+30) clear the textboxes also when the radio buttons are toggled
+31)Code cleaning
+32)multiple click of search button at a time
+33)Display data properly in list view
+34) limit the decimals in confirm message box
+35) If file is not there and file is empty exception in summary button
+36) center the texts in the text boxes 
+<----my design--->
+my client: MyInvestment Bank corp- a financial services company 
+investement product: InvestQ
+
+I am creating an application for the bank employees
+
+prompt them to invest more and show them the benefits
+
+after investing, a thank you button and help them fill the form
+
+111-2222-333
+shreyas@gmail.com
+shreyas
+lokanath
+9535645254
+-11
+1
+0.5
+1000.41666666667
+1011.41666666667
+222-3333-444
+vijeth@gmail.com
+vijeth 
+reddy
+9845200141
+1000
+1
+0.5
+1000.41666666667
+0.416666666666742
+222-3333-444
+raksht@gmail.com
+rakshtith
+bk
+9875412366
+3000
+6
+0.7125
+3010.70337682261
+10.7033768226097
+999-8888-777
+vijeth@gmail.com
+vijeth
+reddy
+5647223354
+3000
+6
+0.7125
+3010.70337682261
+10.7033768226097
+
+
+
+
+
+
+
+
+"MyInvestment bank corporation is a leading financial services company that offers many 
+customer friendly Investment products.One such newly developed Investment plan is the 
+"InvestQ" which has been developed keeping in mind customers who want to invest their 
+savings for short duration for quick returns.we have plans for few thousand Euros to a
+million.
+Thank you for expressing your interest!!, how much would you would like to invest?"
